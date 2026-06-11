@@ -16,7 +16,7 @@ Ce projet a pour objectif d'analyser l'évolution des concentrations atmosphéri
 │   ├── co2_mm_mlo.csv      # Dioxyde de carbone (CO₂) — Mauna Loa
 │   ├── n2o_mm_gl.csv       # Protoxyde d'azote (N₂O) — moyennes globales
 │   └── sf6_mm_gl.csv       # Hexafluorure de soufre (SF₆) — moyennes globales
-└── notebook.ipynb      # Notebook principal avec toutes les étapes de l'analyse
+└── notebook.ipynb          # Notebook principal avec toutes les étapes de l'analyse
 ```
 
 ---
